@@ -3,7 +3,7 @@
 ## Objective
 Predict movie genres using movie plot summaries and textual descriptions.
 
-##Dataset is provided by the @CODSOFT FOR TRAIN,TEST AND EVALUATE Model.
+## Dataset is provided by the @CODSOFT FOR TRAIN,TEST AND EVALUATE Model.
 
 ## Technologies Used
 - Python
